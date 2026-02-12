@@ -1,6 +1,36 @@
 # Projects
 Curated list of the projects I've done from scratch or collaborated with
 
+### Goin' - Rides for all
+<img width="1109" height="577" alt="image" src="https://github.com/user-attachments/assets/fa161fad-bcbb-4a25-a318-2b77e4e4c839" />
+
+**Progamming Language:** Swift\
+**Architecture:** VIPER 
+ 
+**Stacks:**
+ - UIKit
+ - AVFoundation
+ - GoogleMaps
+ - CoreData
+
+**Links:**
+ - https://apps.apple.com/in/app/goin-rides-for-all/id1363873138
+
+### Goin' Provider
+<img width="853" height="595" alt="image" src="https://github.com/user-attachments/assets/1e1b5a08-c242-4dd6-8c96-649728a33b34" />
+
+**Progamming Language:** Swift\
+**Architecture:** VIPER 
+ 
+**Stacks:**
+ - UIKit
+ - AVFoundation
+ - GoogleMaps
+ - CoreData
+
+**Links:**
+ - https://apps.apple.com/ph/app/goin-provider/id1492825930
+
 ### Payments Manager+
 ![PaymentsManager+](https://github.com/jhie1217/portfolio/assets/78532100/f33aa3b9-dff3-4a7a-af9c-76db74d3c0ba)
 
